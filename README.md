@@ -315,7 +315,7 @@ Contributions are welcome! Please see our [Contributing Guide](CONTRIBUTING.md) 
 
 ## License
 
-DataGPU is released under the [MIT License](LICENSE).
+DataGPU is released under the [Apache 2.0 License](LICENSE).
 
 ## Citation
 
